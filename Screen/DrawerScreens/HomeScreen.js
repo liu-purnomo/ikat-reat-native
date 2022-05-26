@@ -18,9 +18,13 @@ const HomeScreen = () => {
               textAlign: 'center',
               marginBottom: 16,
             }}>
-            Example of Splash, Login and Sign Up in React Native
+            Tugas UTS
             {'\n\n'}
             This is the Home Screen
+            {'\n\n'}
+            Nama : Liu Purnomo
+            {'\n\n'}
+            NIM : 2010013
           </Text>
         </View>
         <Text
@@ -29,7 +33,7 @@ const HomeScreen = () => {
             textAlign: 'center',
             color: 'grey',
           }}>
-          Splash, Login and Register Example{'\n'}React Native
+          Splash, Login and Home Page{'\n'}React Native
         </Text>
         <Text
           style={{
@@ -37,7 +41,7 @@ const HomeScreen = () => {
             textAlign: 'center',
             color: 'grey',
           }}>
-          www.aboutreact.com
+          www.liupurnomo.com
         </Text>
       </View>
     </SafeAreaView>

@@ -162,7 +162,7 @@ const styles = StyleSheet.create({
   mainBody: {
     flex: 1,
     justifyContent: 'center',
-    backgroundColor: '#307ecc',
+    backgroundColor: '#1a2951',
     alignContent: 'center',
   },
   SectionStyle: {
@@ -174,10 +174,10 @@ const styles = StyleSheet.create({
     margin: 10,
   },
   buttonStyle: {
-    backgroundColor: '#7DE24E',
+    backgroundColor: '#da6439',
     borderWidth: 0,
     color: '#FFFFFF',
-    borderColor: '#7DE24E',
+    borderColor: '#da6439',
     height: 40,
     alignItems: 'center',
     borderRadius: 30,
